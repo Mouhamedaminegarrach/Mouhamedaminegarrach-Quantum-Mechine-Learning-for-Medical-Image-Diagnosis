@@ -1,1 +1,1 @@
-# Mouhamedaminegarrach-Quantum-Mechine-Learning-for-Medical-Image-Diagnosis
+# Hybrid transfer learning for image classification (COVID-NonCOVID)
